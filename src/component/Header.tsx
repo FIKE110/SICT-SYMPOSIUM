@@ -1,4 +1,3 @@
-import React from 'react'
 import { Link, NavLink } from 'react-router-dom'
 import ArrowIcon from '../assets/icons8-arrow-right-24.png'
 
